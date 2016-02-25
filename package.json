@@ -1,0 +1,14 @@
+{
+  "name": "shengyonggen",
+  "version": "1.0.0",
+  "description": "zuoye",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shengyonggen",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.0.0-alpha.3"
+  }
+}
